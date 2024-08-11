@@ -12,7 +12,10 @@ case:
          
          git push --set-upstream origin main
 
-    
+  
+
+  branching:
+       git checkout -b feature/project2
 
 
 
